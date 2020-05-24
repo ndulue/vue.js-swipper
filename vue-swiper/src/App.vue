@@ -10,7 +10,7 @@
 import HomePage from './components/HomePage';
 export default {
   name: 'App',
-  component: {
+  components: {
     HomePage
   },
   data() {
